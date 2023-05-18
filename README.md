@@ -7,7 +7,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ndgndg91&theme=dracula&hide_border=false&layout=compact&card_width=320" height="150" />
 </div>
 
-## 💻 Tech Stack:
+## 💻 Experienced Tech Stack:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" width="42" alt="aws logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
